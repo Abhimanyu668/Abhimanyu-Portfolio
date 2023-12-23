@@ -1,4 +1,7 @@
 # Portfolio Website
+
+[![GitHub](https://img.shields.io/badge/GitHub-Abhimanyu--Portfolio-blue?style=flat&logo=github)](https://github.com/Abhimanyu-Portfolio)
+
 Welcome to the repository for my 3D portfolio website! This unique and immersive website takes you on a journey through a floating island in the sky, featuring interactive 3D elements that showcase my portfolio. Say goodbye to endless scrolling and hello to a captivating experience where you can navigate by dragging your mouse and using your keyboard.
 
 
